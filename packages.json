@@ -1,26 +1,26 @@
 [
   {
-    "name": "drugfindR",
+    "package": "drugfindR",
     "url": "https://github.com/CogDisResLab/drugfindR"
   },
   {
-    "name": "KRSA",
+    "package": "KRSA",
     "url": "https://github.com/CogDisResLab/KRSA"
   },
   {
-    "name": "creedenzymatic",
+    "package": "creedenzymatic",
     "url": "https://github.com/CogDisResLab/creedenzymatic"
   },
   {
-    "name": "KINNET",
+    "package": "KINNET",
     "url": "https://github.com/CogDisResLab/KINNET"
   },
   {
-    "name": "BioPathNet",
+    "package": "BioPathNet",
     "url": "https://github.com/CogDisResLab/BioPathNet"
   },
   {
-    "name": "KinaseTauScore",
+    "package": "KinaseTauScore",
     "url": "https://github.com/CogDisResLab/KinaseTauScore"
   }
 ]
