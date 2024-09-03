@@ -22,5 +22,13 @@
   {
     "package": "KinaseTauScore",
     "url": "https://github.com/CogDisResLab/KinaseTauScore"
+  },
+  {
+    "package": "Kinograte",
+    "url": "https://github.com/CogDisResLab/kinograte"
+  },
+  {
+    "package": "PCSF",
+    "url": "https://github.com/CogDisResLab/PCSF"
   }
 ]
