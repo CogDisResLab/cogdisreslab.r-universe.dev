@@ -34,5 +34,9 @@
   {
     "package": "PAVER",
     "url": "https://github.com/CogDisResLab/PAVER"
+  },
+  {
+    "package": "enrichR",
+    "url": "https://github.com/CogDisResLab/enrichR"
   }
 ]
